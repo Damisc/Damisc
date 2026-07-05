@@ -39,17 +39,17 @@ I'm a Data Analyst and Machine Learning enthusiast passionate about transforming
 
 ## Tools
 
-* Languages: Python, SQL, JavaScript, C, HTML, Linux
-* Tools: Microsoft Office, PowerBI, MySQL Workbench, Jupyter NOtebook, VScode, Github
-* Libraries: Pandas, Numpy, Matplotlib, seaborn, Scikit-Learn, PyTorch, TensorFlow, FastAPI
+* **Languages**: Python, SQL, JavaScript, C, HTML, Linux
+* **Tools**: Microsoft Office, PowerBI, MySQL Workbench, Jupyter NOtebook, VScode, Github
+* **Libraries**: Pandas, Numpy, Matplotlib, seaborn, Scikit-Learn, PyTorch, TensorFlow, FastAPI
 
 ---
 
 ## How to reach me
 
-* LinkedIn: www.linkedin.com/in/damilola-oladapo-387693355
-* Email: damilolaoladapo126@gmail.com
-* GitHub: https://github.com/Damisc
+* **LinkedIn**: www.linkedin.com/in/damilola-oladapo-387693355
+* **Email**: damilolaoladapo126@gmail.com
+* **GitHub**: https://github.com/Damisc
 
 ---
 
