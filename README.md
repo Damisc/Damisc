@@ -25,24 +25,6 @@ I'm a Data Analyst and Machine Learning enthusiast passionate about transforming
 
 ---
 
-## I’m looking to collaborate on
-
-* Data Analytics projects
-* Machine Learning and AI projects
-* Open-source data science initiatives
-* Business intelligence and dashboard development
-
----
-
-## I’m looking for help with
-
-* Production-grade Machine Learning deployment
-* MLOps best practices
-* Advanced Deep Learning architectures
-* AI research opportunities
-
----
-
 ## Ask me about
 
 * Data Analysis
@@ -55,9 +37,9 @@ I'm a Data Analyst and Machine Learning enthusiast passionate about transforming
 
 ---
 
-## Technologies & Tools
+## Tools
 
-### Data Analytics
+
 
 * Microsoft Excel
 * MySQL
