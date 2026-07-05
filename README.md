@@ -39,34 +39,9 @@ I'm a Data Analyst and Machine Learning enthusiast passionate about transforming
 
 ## Tools
 
-
-
-* Microsoft Excel
-* MySQL
-* Power BI
-* Tableau
-
-### Programming
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
-
-### Machine Learning
-
-* TensorFlow
-* PyTorch
-* Hugging Face Transformers
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
-
+* Languages: Python, SQL, JavaScript, C, HTML, Linux
+* Tools: Microsoft Office, PowerBI, MySQL Workbench, Jupyter NOtebook, VScode, Github
+* Libraries: Pandas, Numpy, Matplotlib, seaborn, Scikit-Learn, PyTorch, TensorFlow, FastAPI
 
 ---
 
